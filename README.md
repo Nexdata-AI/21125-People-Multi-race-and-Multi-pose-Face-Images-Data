@@ -1,38 +1,24 @@
-# 23110-People-Multi-race-and-Multi-pose-Face-Images-Data
+# 21125-People-Multi-race-and-Multi-pose-Face-Images-Data
 
 
 ## Description
-23,110 People Multi-race and Multi-pose Face Images Data. This data includes Asian race, Caucasian race, black race, brown race and Indians. Each subject were collected 29 images under different scenes and light conditions. The 29 images include 28 photos (multi light conditions, multiple poses and multiple scenes) + 1 ID photo. This data can be used for face recognition related tasks.
+This dataset contains face images from 21,125 individuals with diverse demographic backgrounds(Southeast Asian, Caucasian, Black, Brown and Indian races.). Each person was captured with 29 images under different poses, lighting conditions, including 28 variation images and one identity reference image. The dataset is suitable for face recognition, face verification, identity matching, face detection, and other computer vision applications.
 
 For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1016?source=Github
 
 
 ## Data size
-23,110 people, 29 images per person
-
+21125 people, 27-29 images per person
 ## Race distribution
-7,324 black people, 3,830 Caucasian people, 918 brown (Mexican) people, 6,270 Indian people and 4,768 Asian people
-
+7324 black people, 3830 Caucasian people, 918 brown (Mexican) people, 6270 Indian people and 2783 Southeast Asians people
 ## Gender distribution
-12,480 males ,  10,630 females
-
+11459 males, 9666 females
 ## Age distribution
-ranging from teenager to the elderly, the middle-aged and young people are the majorities
-
+ranging from teenager, young, and the middle-aged to the elderly
 ## Collecting environment
-including indoor and outdoor scenes
-
-## Data diversity
-different face poses, races, ages, light conditions and scenes
-
-## Device
+including indoor/outdoor and light/dim scenes
+## Collecting device
 cellphone
-
-## Data format
-.jpg
-
-## Accuracy
-the accuracy of labels of face pose, race, gender and age are more than 97%
 
 # Licensing Information
 Commercial License
